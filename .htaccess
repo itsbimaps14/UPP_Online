@@ -1,0 +1,19 @@
+RewriteEngine On
+
+RewriteRule ^index$ index.php [L]
+
+RewriteRule ^admin$ admin.php [L]
+
+RewriteRule ^home$ main.php?index=home [L]
+RewriteRule ^gantipass$ main.php?index=gantipass [L]
+RewriteRule ^main$ main.php [L]
+
+RewriteRule ^login$ q_login.php [L]
+RewriteRule ^logout$ q_logout.php [L]
+
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
+Options All -Indexes
