@@ -20,15 +20,21 @@ Usulan Perubahan Prosedur Online (UPP Online) is a website application developed
 
 ----
 ### Screenshot Application
-> Landing Page App
+> UPP Home Page
 
-![](https://cdn.discordapp.com/attachments/1141296813350076456/1141296834535489666/image.png)
+![](https://res.cloudinary.com/dindcjvzk/image/upload/v1692190888/upp-home-blur_auudgm.png)
 
-----
-### Structure Database
-> MySQL Database
+> UPP List Procedure Page
 
-![](https://res.cloudinary.com/dindcjvzk/image/upload/v1692178481/Screenshot_230_dth0fk.png)
+![](https://res.cloudinary.com/dindcjvzk/image/upload/v1692190892/upp-procedure-blur_ondwkr.png)
+
+> UPP Procedure Page
+
+![](https://res.cloudinary.com/dindcjvzk/image/upload/v1692191602/upp-process-procedure-blur_uua1kj.png)
+
+> UPP MSDS Page
+
+![](https://res.cloudinary.com/dindcjvzk/image/upload/v1692190890/upp-msds_blur_cye9vs.png)
 
 ----
 ### Extra Information
