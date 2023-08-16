@@ -13,7 +13,10 @@ Usulan Perubahan Prosedur Online (UPP Online) is a website application developed
 
 ----
 ### Features
-- 
+- Request and Manage proposed company procedures (Perubahan Prosedur).
+- Export Data Prosedur (Excel).
+- Manage Other Data (Data External, Complaints, Distributed Document, Work Instruction Validation, and MSDS).
+- Manage User.
 
 ----
 ### Screenshot Application
